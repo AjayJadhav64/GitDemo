@@ -1,1 +1,21 @@
 git add --a ( To add all files)
+
+git commit -m "Comments"      ( To commit by adding in line message)
+
+rm -rf .git (To Remote git from any folder)
+
+pwd (Present working directory)
+
+ls ( list )
+
+q enter ( To close log window)cd
+
+cd.. ( To go in Previous Directory)
+
+Touch ( To Crate file)
+
+-----------------------25-08-2022-----------------
+
+git diff ( To comapare Staging area and  development)
+
+git commit -a -m "Your Comments"
